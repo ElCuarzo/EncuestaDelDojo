@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+.main{
+	display: flex;
+	gap: 80px
+}
+.disco{
+	color: blue;
+}
+.disco_uno{
+	color: red;
+	font-size: 50px;
+}
